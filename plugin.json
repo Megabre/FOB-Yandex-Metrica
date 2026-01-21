@@ -1,0 +1,11 @@
+{
+    "id": "botble/yandex-metrica",
+    "name": "Yandex Metrica",
+    "namespace": "Botble\\YandexMetrica\\",
+    "provider": "Botble\\YandexMetrica\\Providers\\YandexMetricaServiceProvider",
+    "author": "MegaBre Software",
+    "url": "https://megabre.com",
+    "version": "1.0.0",
+    "description": "Integration with Yandex Metrica",
+    "minimum_core_version": "7.0.0"
+}
